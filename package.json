@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "google-img-scrap": "^1.0.7",
+    "request": "^2.88.2",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  },
+  "name": "twitter_bot_javascript",
+  "version": "1.0.0",
+  "description": "um bot simples para o twitter",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "twitter",
+    "bot"
+  ],
+  "author": "Mateus Silva",
+  "license": "ISC"
+}
